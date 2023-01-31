@@ -1,1 +1,1 @@
-# storepassword
+# mystore
